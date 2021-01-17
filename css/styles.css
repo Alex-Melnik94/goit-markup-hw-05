@@ -645,6 +645,7 @@ address {
   text-decoration: none;
 
   position: relative;
+  transition: box-shadow var(--animation-timing) var(--cubic-bezier);
 }
 
 .works-list .link:hover,
